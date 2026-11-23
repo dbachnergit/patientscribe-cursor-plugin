@@ -1,0 +1,35 @@
+{
+  "name": "patientscribe",
+  "displayName": "PatientScribe",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "never",
+    "grokbot": "0.52.0",
+    "sand": "0.52.0"
+  },
+  "description": "Ask about your medical visits. Reads the visit timeline, medications, conditions, and follow-ups that the PatientScribe iPhone app builds from your recorded appointments. Read-only.",
+  "author": {
+    "name": "PatientScribe, LLC",
+    "email": "privacy@patientscribe.app"
+  },
+  "homepage": "https://patientscribe.app/guide/user-guide.html#connect-an-assistant",
+  "license": "MIT",
+  "keywords": [
+    "patientscribe",
+    "health",
+    "medical visits",
+    "appointments",
+    "caregiver",
+    "medications",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "patientscribe",
+    "health",
+    "caregiver",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": "./mcp.json"
+}
