@@ -24,7 +24,7 @@ The complete list is under [Privacy](#privacy).
 ## Before you connect
 
 1. If you do not have the PatientScribe iPhone app yet, sign up for the beta at [patientscribe.app/join](https://patientscribe.app/join/). If you already have it, start at step 2. The app is in beta through TestFlight and needs iOS 26.1 or later.
-2. In the app, turn on iCloud Sync, open a profile you own, and turn on **Available to assistants you connect**. Sign in on Apple's page when it appears. After you sign in, Apple's page can stay blank for a few seconds. Wait for it to close by itself.
+2. In the app, turn on iCloud Sync, open a profile you own, and turn on **Available to assistants you connect**. On the screen titled **Next: Apple's Sign-In Page**, tap **Continue (about 20 seconds)**. Apple's page looks blank for about 20 seconds and usually signs you in without any typing. Wait for it to close by itself.
 3. Add PatientScribe to Grok Bot (next section), sign in with the same Apple or Google account you use in the app, and approve.
 
 Also:
